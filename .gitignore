@@ -1,0 +1,6 @@
+# Build artifacts
+obj/
+*.obj
+*.exp
+*.pdb
+*.ilk
